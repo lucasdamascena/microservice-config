@@ -12,4 +12,4 @@ management:
           - '*'
 greeting-service:
   greeting: "Olá"
-  default-value: "Application QA"
+  default-value: "Application QA - Atualização para testar @RefreshScope"
